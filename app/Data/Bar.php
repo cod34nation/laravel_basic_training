@@ -4,7 +4,7 @@ namespace App\Data;
 
 class Bar
 {
-    private Foo $foo;
+    public Foo $foo;
     /**
      * Create a new class instance.
      */
